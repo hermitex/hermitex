@@ -28,6 +28,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <div>
+
 <h3>🌱 I’m currently learning ...</h3>
 
 - Communication Skills
