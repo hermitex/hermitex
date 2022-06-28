@@ -4,13 +4,9 @@
  Hi there 👋
 </h1>
 
-## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hermitex})
+## ✨ Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hermitex})  ✨
 
-<h2 align="center">
- ✨ Full Stack Software Developer ✨
-</h2>  
-
-I'm a web developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using React, Spring Boot, MySQL, PostgreSQL and more. I like solving problems and building things people will love to use.
+I'm a fullstack developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using React, Spring Boot, MySQL, PostgreSQL and more. I like solving problems and building things people will love to use.
 
 ***
 
