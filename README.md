@@ -55,7 +55,6 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 </div>
 
-## This how I spent my week
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
 
