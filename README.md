@@ -4,6 +4,8 @@
  Hi there 👋
 </h1>
 
+## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hermitex})
+
 <h2 align="center">
  ✨ Full Stack Software Developer ✨
 </h2>  
