@@ -1,4 +1,14 @@
-### Hi there 👋
+![cover-image](assets/images/banner.jpg)
+
+<h1 align="center">
+ Hi there 👋
+</h1>
+
+<h2 align="center">
+ ✨ Full Stack Software Developer ✨
+</h2>  
+
+I'm a web developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using React, Spring Boot, MySQL, PostgreSQL and more. I like solving problems and building things people will love to use.
 
 <!--
 **hermitex/hermitex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
