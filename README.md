@@ -16,34 +16,39 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 > Hestitate not to reach out be it you have a question or you want us have a chat over a cup of coffee.
 
-<div style="display: flex; flex-direction: row; height: 50vh; align-items: center; justify-content: space-between; align-content: center;">
+<div style="display: grid; grid-template-columns: auto;">
 
 <div>
-
-🔭 I’m currently working on ...
+<h3>🔭  I’m currently working on ...</h3>
 
 - Some old project
 - Tech articles
 
-🌱 I’m currently learning ...
+</div>
+<div>
+<h3>🌱 I’m currently learning ...</h3>
 
 - Communication Skills
 - Ruby and Ruby on Rails
 - Java and Spring Boot
 
-👯 I’m looking to collaborate on ...
+</div>
+<div>
+<h3>👯 I’m looking to collaborate on ...</h3>
 
 - FinTech projects
 - Health care projects
 
-😄 Pronouns: He/Him
-
 </div>
 <div>
-<img width="200vw" src="./assets/images/tiberius_programming.png">
+<h3>😄 Pronouns:</h3>
 
+ - He
+ - Him
+  
 </div>
 </div>
+
 ## This how I spent my week:
 <!--START_SECTION:waka-->
 
