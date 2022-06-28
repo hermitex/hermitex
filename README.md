@@ -16,7 +16,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 > Hestitate not to reach out be it you have a question or you want us have a chat over a cup of coffee.
 
-<div style="display: flex; gap: 1rem; wrap: flex-wrap">
+<div style="display: grid; gap: 0.5rem; grid-template-columns: 1fr 1fr;">
 
 <div>
 
