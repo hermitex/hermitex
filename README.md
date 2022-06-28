@@ -39,6 +39,11 @@ I'm a web developer with a collaborative mindset who's able to work, individuall
 😄 Pronouns: He/Him
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # Technical Skills
