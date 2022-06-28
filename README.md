@@ -57,11 +57,82 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 ## This how I spent my week
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 378 Contributions in the Year 2022
+ > 
+> 📦 237.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 90 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-No activity tracked
+🌞 Morning    42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.54% 
+🌆 Daytime    65 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    74 commits     █████████░░░░░░░░░░░░░░░░   37.95% 
+🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
+Tuesday      35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Thursday     51 commits     ██████░░░░░░░░░░░░░░░░░░░   26.15% 
+Friday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
+Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/06/2022 20:05:50 UTC
 <!--END_SECTION:waka-->
 
 # Technical Skills
