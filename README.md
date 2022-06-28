@@ -16,15 +16,17 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 > Hestitate not to reach out be it you have a question or you want us have a chat over a cup of coffee.
 
-<div style="display: grid; grid-template-columns: auto;">
+<div style="display: grid; grid-auto-columns: auto;">
 
 <div>
+
 <h3>🔭  I’m currently working on ...</h3>
 
 - Some old project
 - Tech articles
 
 </div>
+
 <div>
 <h3>🌱 I’m currently learning ...</h3>
 
@@ -33,6 +35,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 - Java and Spring Boot
 
 </div>
+
 <div>
 <h3>👯 I’m looking to collaborate on ...</h3>
 
@@ -40,16 +43,18 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 - Health care projects
 
 </div>
+
 <div>
 <h3>😄 Pronouns:</h3>
 
- - He
- - Him
+- He
+- Him
   
 </div>
+
 </div>
 
-## This how I spent my week:
+## This how I spent my week
 <!--START_SECTION:waka-->
 
 ```text
