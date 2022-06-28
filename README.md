@@ -57,11 +57,6 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 ## This how I spent my week
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 # Technical Skills
