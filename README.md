@@ -34,6 +34,8 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 😄 Pronouns: He/Him
 
+## This how I spent my week:
+
 <!--START_SECTION:waka-->
 
 ```text
