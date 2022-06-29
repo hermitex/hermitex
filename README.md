@@ -4,13 +4,11 @@
  Hi there 👋
 </h1>
 
-## ✨ Glad to see you here ✨
+<h1 align="center"> ✨ Glad to see you here ✨ </h1>
 
 I'm a fullstack developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using React, Spring Boot, MySQL, PostgreSQL and more. I like solving problems and building things people will love to use.
 
----
-
-### Let's Connect 🤝🏾
+<h1 align="center"> Let's Connect 🤝🏾 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiberius-mairura/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hermit_tiberius) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11869442/tiberius) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEyv3oMzvLUv6tGs9KD_S_A) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hermitex) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hermitex)
 
@@ -60,19 +58,19 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 378 Contributions in the Year 2022
- > 
-> 📦 237.1 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 237.1 kB Used in GitHub's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 90 Public Repositories 
- > 
+ >
+> 📜 90 Public Repositories
+ >
 > 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning    42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.54% 
@@ -81,7 +79,8 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
@@ -94,8 +93,7 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Africa/Nairobi
@@ -114,7 +112,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
@@ -125,11 +123,9 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png)
 
  Last Updated on 28/06/2022 20:05:50 UTC
 <!--END_SECTION:waka-->
