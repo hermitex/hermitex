@@ -54,65 +54,72 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 🏆 378 Contributions in the Year 2022
- >
-> 📦 237.1 kB Used in GitHub's Storage
- >
+> 🏆 389 Contributions in the Year 2022
+ > 
+> 📦 237.1 kB Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
- >
-> 📜 90 Public Repositories
- >
+ > 
+> 📜 90 Public Repositories 
+ > 
 > 🔑 4 Private Repositories  
- >
-**I'm an Early 🐤**
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.54% 
-🌆 Daytime    65 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    74 commits     █████████░░░░░░░░░░░░░░░░   37.95% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
+🌞 Morning    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+🌆 Daytime    71 commits     ████████░░░░░░░░░░░░░░░░░   34.47% 
+🌃 Evening    78 commits     █████████░░░░░░░░░░░░░░░░   37.86% 
+🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+Tuesday      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
+Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Thursday     51 commits     ██████░░░░░░░░░░░░░░░░░░░   24.76% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
+Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
 
 ```
 
-📅 **I'm Most Productive on Thursday**
 
-```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
-Tuesday      35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Thursday     51 commits     ██████░░░░░░░░░░░░░░░░░░░   26.15% 
-Friday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 42 mins             █████████████████████░░░░   86.8% 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hermitex                 46 mins             ███████████████████████░░   95.31% 
+cyberattack-search-script2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+youbified                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+bin                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.0% 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
@@ -123,11 +130,13 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 ```
 
+
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
- Last Updated on 28/06/2022 20:05:50 UTC
+
+ Last Updated on 29/06/2022 10:05:17 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
