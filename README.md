@@ -4,11 +4,11 @@
  Hi there 👋
 </h1>
 
-<h1 align="center"> ✨ Glad to see you here ✨ </h1>
+<h3 align="center"> ✨ Glad to see you here ✨ </h3>
 
 I'm a fullstack developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using React, Spring Boot, MySQL, PostgreSQL and more. I like solving problems and building things people will love to use.
 
-<h1 align="center"> Let's Connect 🤝🏾 </h1>
+<h3 align="center"> Let's Connect 🤝🏾 </h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiberius-mairura/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hermit_tiberius) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11869442/tiberius) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEyv3oMzvLUv6tGs9KD_S_A) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hermitex) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hermitex)
 
