@@ -54,15 +54,15 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 394 Contributions in the Year 2022
  > 
-> 📦 237.1 kB Used in GitHub's Storage 
+> 📦 237.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -136,7 +136,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 16:36:33 UTC
+ Last Updated on 29/06/2022 18:38:17 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
