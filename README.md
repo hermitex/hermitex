@@ -54,15 +54,15 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 407 Contributions in the Year 2022
+> 🏆 416 Contributions in the Year 2022
  > 
-> 📦 257.1 kB Used in GitHub's Storage 
+> 📦 264.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -73,22 +73,22 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-🌆 Daytime    73 commits     ████████░░░░░░░░░░░░░░░░░   32.88% 
-🌃 Evening    86 commits     █████████░░░░░░░░░░░░░░░░   38.74% 
-🌙 Night      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+🌞 Morning    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
+🌆 Daytime    79 commits     ████████░░░░░░░░░░░░░░░░░   34.2% 
+🌃 Evening    89 commits     █████████░░░░░░░░░░░░░░░░   38.53% 
+🌙 Night      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-Tuesday      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Wednesday    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-Thursday     52 commits     █████░░░░░░░░░░░░░░░░░░░░   23.42% 
-Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Saturday     43 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
+Monday       8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+Tuesday      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+Wednesday    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Thursday     52 commits     █████░░░░░░░░░░░░░░░░░░░░   22.51% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
+Saturday     43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
+Sunday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
 
 ```
 
@@ -138,7 +138,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 21:36:22 UTC
+ Last Updated on 03/07/2022 21:15:40 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
