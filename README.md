@@ -56,13 +56,13 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 662 Contributions in the Year 2022
  > 
-> 📦 316.7 kB Used in GitHub's Storage 
+> 📦 316.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,20 +99,21 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 2 mins              ███████████████░░░░░░░░░░   62.21% 
-TypeScript               1 min               █████████░░░░░░░░░░░░░░░░   37.79% 
+CSS                      35 mins             ████████████████░░░░░░░░░   65.79% 
+JavaScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.9% 
+HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+VS Code                  54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-colonyDapp               3 mins              █████████████████████████   100.0% 
+tebi                     43 mins             ████████████████████░░░░░   80.1% 
+leetcode                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.9% 
 real-time-election-stats 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.0% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +134,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2022 18:55:00 UTC
+ Last Updated on 14/08/2022 18:50:47 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
