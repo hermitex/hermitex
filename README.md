@@ -54,7 +54,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -66,7 +66,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
  > 
 > 💼 Opted to Hire
  > 
-> 📜 149 Public Repositories 
+> 📜 159 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -137,7 +137,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:54:54 UTC
+ Last Updated on 18/08/2022 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
