@@ -54,7 +54,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -66,7 +66,7 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
  > 
 > 💼 Opted to Hire
  > 
-> 📜 185 Public Repositories 
+> 📜 186 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -125,11 +125,11 @@ Linux                    6 hrs               ██████░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   44.19% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+JavaScript               20 repos            ███████████░░░░░░░░░░░░░░   45.45% 
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -139,7 +139,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2022 19:01:37 UTC
+ Last Updated on 25/08/2022 18:52:43 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
