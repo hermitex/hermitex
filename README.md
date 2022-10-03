@@ -54,9 +54,9 @@ I'm a fullstack developer with a collaborative mindset who's able to work, indiv
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
@@ -138,7 +138,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hermitex/hermitex/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 06:57:29 UTC
+ Last Updated on 03/10/2022 07:30:12 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"> Technical Skills </h2>
