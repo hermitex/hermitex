@@ -6,7 +6,7 @@
 
 <h2 align="center"> ✨ Glad to see you here ✨ </h2>
 
-Tiberius Mairura is a full stack web developer and technical writer with a passion for problem-solving and building user-friendly applications. With experience using React, Ruby, Ruby on Rails, MySQL, and PostgreSQL, Tiberius is well-equipped to tackle a variety of web development projects. He is a collaborative team player and a quick learner, able to adapt to new technologies and environments with ease. In addition to his technical skills, Tiberius has excellent communication and interpersonal abilities, making him a valuable asset to any team. He holds two diplomas in IT and has a track record of successfully completing projects and mentoring other developers. Tiberius is eager to use his skills to make a positive impact at the company he works for.
+Tiberius Mairura is a full stack web developer and technical writer with a passion for problem-solving and building user-friendly applications. With experience using React, Ruby, Ruby on Rails, MySQL, and PostgreSQL, Tiberius is well-equipped to tackle a variety of web development projects. He is a collaborative team player and a quick learner, able to adapt to new technologies and environments with ease. In addition to his technical skills, Tiberius has excellent communication and interpersonal abilities, making him a valuable asset to any team. He has a track record of successfully completing projects and mentoring other developers. Tiberius is eager to use his skills to make a positive impact at the company he works for.
 
 <h2 align="center"> Let's Connect 🤝🏾 </h2>
 
