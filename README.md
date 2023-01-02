@@ -20,7 +20,7 @@ Tiberius Mairura is a full stack web developer and technical writer with a passi
 
 <h3>🔭  I’m currently working on ...</h3>
 
-- Some old project
+- [Sleecars](https://sleecars.vercel.app/): A car dealer web application.
 - Tech articles
 
 </div>
