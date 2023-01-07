@@ -29,7 +29,8 @@ Tiberius Mairura is a full stack web developer and technical writer with a passi
 
 <h3>🌱 I’m currently learning ...</h3>
 
-- Communication Skills
+- NestJS
+- VueJS
 - Ruby and Ruby on Rails
 - Java and Spring Boot
 
