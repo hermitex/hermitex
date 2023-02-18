@@ -57,11 +57,12 @@ Tiberius Mairura is a full stack web developer and technical writer with a passi
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       24 hrs 39 mins  ███████████████▓░░░░░░░░░   62.12 %
-JavaScript   8 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Markdown     2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Python       2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Vue.js       25 hrs 22 mins  ███████████████░░░░░░░░░░   59.93 %
+JavaScript   9 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Markdown     2 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Python       2 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+TypeScript   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
